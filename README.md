@@ -49,7 +49,7 @@ They are derivative works of overlay configurations, screens and icons made by o
 
 Psx overlay uses the most comprehensive set of RetroArch screen overlay features. It and other overlays here are hopefully useful as examples of how to create interactive screen overlays for RetroPie.
 
-### Atari 2600 TV overlay
+### Atari 2600 overlay
 
 This overlay (`ia-atari2600-tv.cfg`) is based on 'TV overlay' posted to [RetroPie forums](https://retropie.org.uk/forum/topic/13408/tv-overlay). It has been modified to include an Atari joystick at the lower left corner that will display fire button presses and d-pad up,down,left and right events. It has also been slightly altered to match Atari 2600 view port in RetroPie 4.6 default configuration.
 
@@ -68,7 +68,7 @@ input_overlay_scale = "1.000000"
 
 Other Atari 2600 joystick graphics that can be useful in creating interactive overlays: [#1](https://www.pngegg.com/en/png-zpqbt), [#2](https://www.pngegg.com/en/png-bxpyz).
 
-### GBA (Gameboy advanced) overlay
+### GBA (Gameboy advance) overlay
 
 GBA overlay (`ia-gba-purple.cfg`) is based on overlay available [here](http://thatlostpacket.com/retrogbaoverlay.html). It has been modified to remove 'fast forward' 'button' and to create 'pressed button feel' for buttons. <!-- Gimp, increasing buttons contrast by 40% -->
  
