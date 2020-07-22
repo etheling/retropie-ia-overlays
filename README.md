@@ -16,6 +16,7 @@ pi@retropie:~ $ sudo apt -y install git
 pi@retropie:~ $ cd /tmp
 pi@retropie:/tmp $ git clone https://github.com/etheling/retropie-ia-overlays
 pi@retropie:/tmp $ cd retropie-ia-overlays
+pi@retropie:/tmp/retropie-ia-overlays $ chmod +x ./install-overlays.sh
 pi@retropie:/tmp/retropie-ia-overlays $ ./install-overlays.sh
 ...
 ```
