@@ -1,1 +1,22 @@
+##
+## 3DO Interactive Multiplayer interactive overlay for 1080p 16:9 screens
+##
 
+###############################################################################
+## /opt/retropie/configs/3do/retroarch.cfg:
+###############################################################################
+
+## 
+video_scale_integer = "true"
+
+##                                                                                                                                                    
+input_overlay_enable = "true"
+input_overlay = "/opt/retropie/emulators/retroarch/overlays/ia-3do.cfg"
+input_overlay_opacity = "1.000000"
+input_overlay_scale = "1.000000"
+input_overlay_show_physical_inputs = "true"
+
+###############################################################################
+## Source graphics
+###############################################################################
+n/a
