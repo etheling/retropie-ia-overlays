@@ -1,1 +1,21 @@
+###############################################################################
+## /opt/retropie/configs/pcengine/retroarch.cfg:
+###############################################################################
 
+## 
+video_scale_integer = "true"
+
+##                                                                                                                                                    
+input_overlay_enable = "true"
+input_overlay = "/opt/retropie/emulators/retroarch/overlays/ia-pcengine.cfg"
+input_overlay_opacity = "1.000000"
+input_overlay_scale = "1.000000"
+input_overlay_show_physical_inputs = "true"
+
+###############################################################################
+## Source graphics
+###############################################################################
+
+URL: https://forums.libretro.com/t/post-your-overlays/179/171
+URL: http://www.mediafire.com/file/zgy1wfcsucxc5ok/TurboGrafxCDOverlays.zip/file
+URL: https://www.deviantart.com/tangentg/art/TurboGrafx-16-TurboPad-606393574
