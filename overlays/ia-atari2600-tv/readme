@@ -1,1 +1,18 @@
-Based on TV overlay posted to https://retropie.org.uk/forum/topic/13408/tv-overlay
+##
+## Atari 2600 interactive overlay for 1080p 16:9 screens
+##
+
+###############################################################################
+## /opt/retropie/configs/atari2600/retroarch.cfg:
+
+## Overlay old TV
+input_overlay_enable = "true"
+input_overlay = "/opt/retropie/emulators/retroarch/overlays/ia-atari2600-tv.cfg"
+input_overlay_show_physical_inputs = "true"
+input_overlay_opacity = "1.000000"
+input_overlay_scale = "1.000000"
+
+###############################################################################
+## Source graphics
+
+URL: https://retropie.org.uk/forum/topic/13408/tv-overlay
