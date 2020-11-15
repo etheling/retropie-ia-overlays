@@ -1,1 +1,21 @@
+##
+## Neo Geo interactive overlay for 1080p 16:9 screens
+##
 
+###############################################################################
+## /opt/retropie/configs/neogeo/retroarch.cfg:
+###############################################################################
+
+##                                                                                                                                                    
+input_overlay_enable = "true"
+input_overlay = "/opt/retropie/emulators/retroarch/overlays/ia-neogeo.cfg"
+input_overlay_opacity = "1.000000"
+input_overlay_scale = "1.000000"
+input_overlay_show_physical_inputs = "true"
+
+###############################################################################
+## Source graphics
+###############################################################################
+
+URL: https://retropie.org.uk/forum/assets/uploads/files/1552588940843-neogeocd.png
+URL: https://wallpapercave.com/w/wp2011310
