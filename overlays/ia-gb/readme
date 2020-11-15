@@ -1,5 +1,10 @@
-## for .../gb/retroarch.cfg
 ##
+## Game Boy interactive overlay for 1080p 16:9 screens
+##
+
+###############################################################################
+## /opt/retropie/configs/gb/retroarch.cfg:
+
 input_overlay_enable = "true"
 input_overlay = "/opt/retropie/emulators/retroarch/overlays/ia-gb.cfg"
 input_overlay_opacity = "1.000000"
@@ -16,3 +21,8 @@ custom_viewport_width = "772"
 custom_viewport_height = "695"
 custom_viewport_x = "577"
 custom_viewport_y = "149"
+
+###############################################################################
+## Source graphics
+
+URL: https://retropie.org.uk/forum/topic/7386/add-these-gameboy-shaders/25
